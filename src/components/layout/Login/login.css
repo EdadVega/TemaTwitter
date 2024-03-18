@@ -1,0 +1,17 @@
+.loginContainer{
+    margin: 5%;
+    margin-top: 8%;
+    font-Family: 'Google Sans', sans-serif;
+    font-weight: bold;
+}
+
+.loginContainer > input{
+    width: 55%;
+    padding: 1.5%;
+    border-radius: 50px;
+    border: 1px solid rgb(163, 162, 162);
+    color: rgb(29, 155, 240);;
+    font-size: 1em;
+    font-weight: bold;
+    margin: 4% 0;
+}
